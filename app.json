@@ -8,28 +8,28 @@
         "pyrogram"
     ],
     "repository": "https://github.com/Mswpresents/txttovdomy",
-    "success_url": "https://t.me/teamjaishriramofficial",
+    "success_url": "https://t.me/Cuit_baby",
     "stack": "container",
     "env": {
         "API_ID": {
             "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑨𝒑𝒊 𝑰𝑫",
-            "required": true
+            "required": "21863630"
         },
         "API_HASH": {
             "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑨𝒑𝒊 𝑯𝒂𝒔𝒉",
-            "required": true
+            "required":"fcaec0e8a1e8d2675122068f40b76817"
         },
         "BOT_TOKEN": {
             "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑩𝒐𝒕 𝑻𝒐𝒌𝒆𝒏",
-            "required": true
+            "required": "6618907560:AAFJyYQY0GGJ7uBeoPV345ATZFr0n01MS8I"
         },
         "OWNER_ID": {
             "description": "𝑼𝒔𝒆𝒓 𝑰𝑫 𝑶𝒇 𝑩𝒐𝒕 𝑶𝒘𝒏𝒆𝒓",
-            "required": true
+            "required": "6755683402"
         },
         "SUDO_USERS": {
             "description": "𝑺𝒖𝒅𝒐 𝑰𝑫'𝒔 (𝒀𝒐𝒖 𝑪𝒂𝒏 𝑨𝒅𝒅 𝑴𝒖𝒍𝒕𝒊𝒑𝒍𝒆 𝑩𝒚 𝑮𝒊𝒗𝒊𝒏𝒈 𝑺𝒑𝒂𝒄𝒆)",
-            "required": true
+            "required": "6755683402"
         }
     },
     "addons": [],
